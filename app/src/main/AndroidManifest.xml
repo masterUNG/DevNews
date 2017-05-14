@@ -18,7 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ServiceUser"></activity>
+        <activity android:name=".ServiceUser" />
+        <activity android:name=".ShowService"></activity>
     </application>
 
 </manifest>
